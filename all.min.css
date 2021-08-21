@@ -877,11 +877,13 @@ body,button {
 	background-color:#ffffff;
 }
 .page-38 .img1{
+	position: absolute;
 	height: 60%;
 	bottom:130;
 	left:4.5em
 }
 .page-38 .img2{
+	position: absolute;
 	height: 61%;
 	bottom:125;
 	right:4.6em
@@ -983,11 +985,13 @@ body,button {
 	background-color: #fffccc;
 }
 .page-51 .img1 {
+	position:absolute;
 	height: 42%;
 	left: 4em;
 	bottom: 150;
 }
 .page-51 .img2 {
+	position: absolute;
 	height: 40%;
 	right: 3em;
 	bottom: 152;
